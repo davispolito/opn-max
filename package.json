@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archive-search": "^1.0.8",
+    "download-file": "^0.1.5",
+    "express": "^4.17.1",
+    "internet-archive-metadata-api": "^1.1.6",
+    "openweather-apis": "^4.3.1",
+    "random-internet-archive": "^3.0.2"
+  }
+}
