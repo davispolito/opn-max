@@ -1,6 +1,5 @@
 const maxApi = require("max-api");
 
-//maxApi.outlet("hello world");
 var randomInternetArchive = require('random-internet-archive');
 var internetsearch = require('archive-search');
 var download = require('download-file');
@@ -43,8 +42,6 @@ function print(error, result) {
         maxApi.outlet(result);
 
        randomJSON = result.url;
-      //
     }
   }
-////// ACCESS PYTHON /////////////
-// search-backend.ts
+
