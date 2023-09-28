@@ -9,11 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "archive-search": "^1.0.8",
+    "archive-search": "^1.0.15",
+    "child_process": "^1.0.2",
     "download-file": "^0.1.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "internet-archive-metadata-api": "^1.1.6",
     "openweather-apis": "^4.3.1",
-    "random-internet-archive": "^3.0.2"
+    "random-internet-archive": "^3.0.2",
+    "request": "^2.88.2"
   }
 }
